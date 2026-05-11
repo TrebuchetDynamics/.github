@@ -6,7 +6,17 @@ Trebuchet Dynamics Limited builds production software where correctness, provena
 
 UK Ltd. Company No. `16997140`. D-U-N-S `234531872`. Founder building production systems since 2015. Americas-based in-house engineering team. No offshoring.
 
-[Website](https://trebuchetdynamics.com) · [Contact](mailto:contact@trebuchetdynamics.com) · [LinkedIn](https://www.linkedin.com/in/juan-tamez-a3266661/)
+[Website](https://trebuchetdynamics.com) · [Gormes](https://gormes.ai) · [Contact](mailto:contact@trebuchetdynamics.com) · [LinkedIn](https://www.linkedin.com/in/juan-tamez-a3266661/)
+
+---
+
+## DevCard
+
+<p align="center">
+  <img src="profile/devcard.svg" alt="Trebuchet Dynamics DevCard" width="495">
+</p>
+
+---
 
 ## Public Work
 
