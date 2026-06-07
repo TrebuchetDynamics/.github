@@ -22,12 +22,14 @@ UK Ltd. Company No. `16997140`. D-U-N-S `234531872`. Founder building production
 
 | Project | What it proves |
 | --- | --- |
-| [Fractal Forge](https://play.google.com/store/apps/details?id=com.trebuchetdynamics.fractal.forge) | Published Android app with 350+ fractals, GPU rendering, deep zoom, export, and on-device privacy. |
+| [Arenaton](https://arenaton.com) | Prediction-market terminal work for discovery, server insights, paper trading, and wallet-only live paths. |
 | [Gormes Agent](https://github.com/TrebuchetDynamics/gormes-agent) | Go-native agent runtime work for dependable installs, diagnostics, streaming, and recoverable sessions. |
+| [Navivox](https://github.com/TrebuchetDynamics/navivox-app) | Flutter operator app for talking to trusted self-hosted Gormes agents. |
+| [Goncho](https://github.com/TrebuchetDynamics/goncho) | Honcho-compatible, local-first memory system for Go agents. |
 | [FeCIM Lattice Tools](https://github.com/TrebuchetDynamics/fecim-lattice-tools) | Public research tooling for ferroelectric compute-in-memory simulation workflows and validation harnesses. |
-| [Moscovium Statera Go](https://github.com/TrebuchetDynamics/moscovium-statera-go) | Source-backed nuclear-data engine for isotope records and auditable decay-chain traversal. |
-| [Cosmos Statera Go](https://github.com/TrebuchetDynamics/cosmos-statera-go) | Cosmology, relativity, and dark-matter modeling toolkit with residual-first validation. |
-| [Protein Statera Go](https://github.com/TrebuchetDynamics/protein-statera-go) | Protein structure validation and interpretation workbench for evidence-bound reports. |
+| [Research Forge](https://github.com/TrebuchetDynamics/research-forge) | Research workflow tooling for source-backed investigations, reports, and validation artifacts. |
+| [Fractal Forge](https://play.google.com/store/apps/details?id=com.trebuchetdynamics.fractal.forge) | Published Android app with 350+ fractals, GPU rendering, deep zoom, export, and on-device privacy. |
+| [Pi Package Goal](https://github.com/TrebuchetDynamics/pi-package-goal) | Adapter-aware Pi development loop package with curated engineering and web skills. |
 
 ## What We Build
 
