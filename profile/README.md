@@ -12,15 +12,6 @@ UK Ltd. Company No. `16997140` · D-U-N-S `234531872` · Founder building produc
 
 ## Public Work
 
-### Agent tooling
-
-| Project | What it does |
-| --- | --- |
-| [Hermes Wing](https://github.com/TrebuchetDynamics/hermes-wing) | Cross-platform mobile and desktop client for chatting with, following, and approving the work of a self-hosted Hermes Agent. |
-| [Kit](https://github.com/TrebuchetDynamics/kit) | Coding-agent skills for Pi, Claude Code, and Codex, with optional Hermes integration, a native Paseo plugin, and an optional background runner. |
-| [pi-toolset](https://github.com/TrebuchetDynamics/pi-toolset) | Curated [Pi](https://pi.dev) package for disciplined agent work: specialist skills, visible objectives, and evidence before delivery. |
-| [Gormes Agent](https://github.com/TrebuchetDynamics/gormes-agent) | Go-native agent runtime with dependable installs, diagnostics, streaming, and recoverable sessions. [gormes.ai](https://gormes.ai) |
-
 ### Prediction markets
 
 | Project | What it does |
@@ -36,6 +27,15 @@ UK Ltd. Company No. `16997140` · D-U-N-S `234531872` · Founder building produc
 | [Fractal Forge](https://github.com/TrebuchetDynamics/flutter-fractal-forge) | GPU fractal explorer with real-time shaders and deep zoom. On [Google Play](https://play.google.com/store/apps/details?id=com.trebuchetdynamics.fractal.forge) and the [web](https://fractal.trebuchetdynamics.com/). |
 | [FeCIM Lattice Tools](https://github.com/TrebuchetDynamics/fecim-lattice-tools) | Desktop simulation lab for teaching, designing, and validating ferroelectric compute-in-memory systems. |
 | [Research Forge](https://github.com/TrebuchetDynamics/research-forge) | Source-backed research tooling that turns investigations into auditable reports and validation artifacts. |
+
+### Agent tooling
+
+| Project | What it does |
+| --- | --- |
+| [Hermes Wing](https://github.com/TrebuchetDynamics/hermes-wing) | Cross-platform mobile and desktop client for chatting with, following, and approving the work of a self-hosted Hermes Agent. |
+| [Kit](https://github.com/TrebuchetDynamics/kit) | Coding-agent skills for Pi, Claude Code, and Codex, with optional Hermes integration, a native Paseo plugin, and an optional background runner. |
+| [pi-toolset](https://github.com/TrebuchetDynamics/pi-toolset) | Curated [Pi](https://pi.dev) package for disciplined agent work: specialist skills, visible objectives, and evidence before delivery. |
+| [Gormes Agent](https://github.com/TrebuchetDynamics/gormes-agent) | Go-native agent runtime with dependable installs, diagnostics, streaming, and recoverable sessions. [gormes.ai](https://gormes.ai) |
 
 ## What We Build
 
